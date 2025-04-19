@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.7
+requests==2.31.0
+jsonschema==4.19.0
+rdkit-pypi==2023.03.1
+pymol-open-source==2.5.2
